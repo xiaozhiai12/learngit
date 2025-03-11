@@ -5,7 +5,6 @@ Git tracks changes.
 learn more
 <<<<<<< HEAD
 Creating a new branch is quick.
-money
 Creating a new branch is quick.
 
 =======
