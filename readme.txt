@@ -7,7 +7,7 @@ learn more
 Creating a new branch is quick.
 money
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+
 =======
 
 >>>>>>> feature1
